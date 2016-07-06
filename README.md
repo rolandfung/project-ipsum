@@ -149,7 +149,7 @@ Run the test Mocha-Chai suite with `npm test`
   |     Store      |    Github OAuth2 based      | *associate LB to ser^ers  |
   |                |   session authentication    | *command LB and platform  |
   |                <-----------------------------+  apis                     |
-  +----------------+     Platform API calls      |                           |
+  +----------------+                             |                           |
   +----------------+                             |                           |
   |                |                             |                           |
   |   PostgreSQL   +----------------------------->                           |
